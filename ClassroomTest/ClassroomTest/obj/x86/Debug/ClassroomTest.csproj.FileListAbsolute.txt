@@ -3,3 +3,8 @@ c:\users\student2\documents\visual studio 2010\Projects\ClassroomTest\ClassroomT
 c:\users\student2\documents\visual studio 2010\Projects\ClassroomTest\ClassroomTest\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\users\student2\documents\visual studio 2010\Projects\ClassroomTest\ClassroomTest\obj\x86\Debug\ClassroomTest.exe
 c:\users\student2\documents\visual studio 2010\Projects\ClassroomTest\ClassroomTest\obj\x86\Debug\ClassroomTest.pdb
+C:\Users\Student2\.ssh\ClassroomTest\ClassroomTest\ClassroomTest\obj\x86\Debug\ClassroomTest.exe
+C:\Users\Student2\.ssh\ClassroomTest\ClassroomTest\ClassroomTest\obj\x86\Debug\ClassroomTest.pdb
+C:\Users\Student2\.ssh\ClassroomTest\ClassroomTest\ClassroomTest\bin\Debug\ClassroomTest.exe
+C:\Users\Student2\.ssh\ClassroomTest\ClassroomTest\ClassroomTest\bin\Debug\ClassroomTest.pdb
+C:\Users\Student2\.ssh\ClassroomTest\ClassroomTest\ClassroomTest\obj\x86\Debug\ResolveAssemblyReference.cache

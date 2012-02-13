@@ -10,6 +10,7 @@ namespace ClassroomTest
         static void Main(string[] args)
         {
             Console.WriteLine("There once was a man from Nantucket...");
+            Console.WriteLine("It would be rude of me to continue on with this poem.");
         }
     }
 }
